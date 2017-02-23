@@ -1,0 +1,33 @@
+.panel-top{
+	margin-top : 80px;
+}
+
+#test-title{
+	margin: 5px 0 15px 0;
+	text-align: center;
+}
+
+.test-user-input input{
+	width:50px;
+	margin: 0 auto;
+	text-align:center !important;
+}
+
+.test-user-input{
+	text-align:center !important;
+}
+
+.test-college-tbl, .test-course-tbl{
+	margin-top: 10px;
+}
+
+.test-college-tbl{
+	margin-bottom: 20px;
+}
+
+.review-rating-td{
+	text-align:center !important;	
+}
+
+
+

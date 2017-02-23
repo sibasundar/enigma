@@ -1,0 +1,9 @@
+#course-rev .panel-body .well:nth-child(even){
+	float: right;
+}
+
+#course-rev .panel-body{
+	height:450px;
+	overflow: auto;
+}
+
